@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I'm 
+I'm Bassam, a web developer and embedded systems programmer
 
 💬 If you are interested in my work, lets have a conversation
 
@@ -18,6 +18,5 @@ I'm
   <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" title="Linux" alt="Linux"/>&nbsp;
   <img src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white" title="Windows" alt="Windows"/>&nbsp;
   <img src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white" title="VSCode" alt="VSCode"/>&nbsp;
-  <img src="https://img.shields.io/badge/ESLint-4B3263?style=for-the-badge&logo=eslint&logoColor=white" title="ESLint" alt="ESLint"/>
-  <img src="https://img.shields.io/badge/prettier-1A2C34?style=for-the-badge&logo=prettier&logoColor=F7BA3E" title="Prietter" alt="Prietter"/>&nbsp;
+
 </div>
